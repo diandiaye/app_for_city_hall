@@ -9,6 +9,7 @@ Le projet App_City_Hall a pour but de mettre à la disposition des mairies qui s
   ┣ 📂 **En construction**\
   ┃ ┗ 📜 [civRegister](#civRegister)\
   ┃ ┗ 📜 [api_civRegister](#api_civRegister)\
+  ┃ ┗ 📜 Application chatbot
   ┣ 📂 **Disponible**\
   ┃ ┗ 📜 app\
   ┣ 📜 app\
@@ -26,6 +27,8 @@ Application permettant aux habitants d'une ville de signaler des incidents(voles
 ### civReister
 
 [Application d'enregistrement des faits d'état civils](https://github.com/dofbi/civRegister)
+
+### Chatbot intelligent permettant de répondre automatiquement aux questions qui lui sont posées
 
 ## Contribuer
 
